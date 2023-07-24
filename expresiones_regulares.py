@@ -11,12 +11,3 @@ with open("C:\\Users\\dafer\\Documents\\platzi\\01_curso_expresiones_regulares\\
 
     f.close()
 
-# f =open("C:\\Users\\dafer\\Documents\\platzi\\01_curso_expresiones_regulares\\04_archivo\\REGEX-master\\REGEX-master\\files\\results.csv","r",encoding="utf-8")
-
-# for i in f:
-#     res = re.match(pattern,i)
-#     if res:
-#         print(res.group(2))
-
-# f.close()
-
