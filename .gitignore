@@ -149,4 +149,4 @@ cython_debug/
 *.ipynb
 *.pbix
 *.pdf
-
+*.txt
